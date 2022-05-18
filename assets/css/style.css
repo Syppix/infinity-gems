@@ -77,3 +77,8 @@ nav{
 .nav_link:hover:after {
     opacity: 1;
 }
+@media screen and (max-width: 480px) {
+    nav{
+    width: 30%;
+    }
+}
